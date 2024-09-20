@@ -1,2 +1,2 @@
 # Bo‘lim Index
-www.uralbek.uz sayti uchun tuzilayotgan bazaning v1.0.0  versiyasi
+<a href="https://uralbek.netlify.app/">www.uralbek.uz</a> sayti uchun tuzilayotgan bazaning v1.0.0  versiyasi
